@@ -1,0 +1,5 @@
+{
+  "name": "Juego de Mecanografía Rápida",
+  "description": "Un juego simple para practicar tu velocidad y precisión de escritura. Escribe las frases que aparecen sin cometer errores. Tienes 3 vidas para conseguir la puntuación más alta.",
+  "requestFramePermissions": []
+}
